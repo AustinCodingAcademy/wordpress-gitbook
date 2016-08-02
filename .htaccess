@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "AustinCodingAcademyAuth"
+AuthUserFile /app/.htpasswd
+Require valid-user
