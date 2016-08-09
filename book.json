@@ -1,19 +1,6 @@
 {
-  "plugins": [
-    "jsfiddle",
-    "youtube"
+  "plugins" : [
+    "pyweb"
   ],
-  "pluginsConfig": {
-    "jsfiddle": {
-      "type": "script",
-      "tabs": [
-        "html",
-        "css",
-        "result"
-      ],
-      "height": "500",
-      "width": "500",
-      "fontColor": "000000"
-    }
-  }
+  "pluginsConfig" : {}
 }
