@@ -2,5 +2,8 @@
   "plugins" : [
     "pyweb"
   ],
-  "pluginsConfig" : {}
+  "pluginsConfig" : {
+  "discourse-external-integration": {
+            "discourseUrl": "http://104.131.34.3/"
+        }}
 }
