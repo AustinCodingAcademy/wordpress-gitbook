@@ -1,6 +1,7 @@
 {
   "plugins" : [
-    "pyweb"
+    "pyweb",
+    "discourse-external-integration"
   ],
   "pluginsConfig" : {
   "discourse-external-integration": {
