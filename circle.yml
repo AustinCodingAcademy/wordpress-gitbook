@@ -1,7 +1,7 @@
 machine:
   environment:
-    NAME: Intro
-    FILE_ID: 0B9BrFrtW87-URXprZTlSaG5oZnM
+    NAME: Wordpress
+    FILE_ID: ''
   node:
     version: 5.6.0
 deployment:

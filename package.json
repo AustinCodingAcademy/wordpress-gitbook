@@ -3,7 +3,9 @@
     "gitbook-cli": "2.3.0"
   },
   "scripts": {
+    "preinstall": "npm prune && npm cache clean",
     "postinstall": "gitbook install && gitbook build",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "gitbook": "gitbook"
   }
 }

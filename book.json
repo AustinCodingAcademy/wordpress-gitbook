@@ -1,10 +1,33 @@
 {
-  "plugins" : [
-    "pyweb",
-    "discourse-external-integration"
+  "plugins": [
+    "edit-link",
+    "-sharing",
+    "collapsible-chapters",
+    "ga",
+    "wide-page",
+    "hidden",
+    "replace-with-index-html",
+    "page-toc"
   ],
-  "pluginsConfig" : {
-  "discourse-external-integration": {
-            "discourseUrl": "http://104.131.34.3/"
-        }}
+  "pluginsConfig": {
+    "ga": {
+      "token": "UA-68821515-2",
+      "configuration": {
+        "name": "Wordpress"
+      }
+    },
+    "edit-link": {
+      "base": "https://github.com/AustinCodingAcademy/wordpress-gitbook/edit/master/",
+      "label": "Edit This Page"
+    },
+    "hidden": {
+      "usernames": ["aca-staff"]
+    },
+    "page-toc": {
+      "position": "top"
+    }
+  },
+  "structure": {
+    "readme": "home.md"
+  }
 }
