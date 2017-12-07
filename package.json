@@ -1,6 +1,13 @@
 {
   "dependencies": {
-    "gitbook-cli": "2.3.0"
+    "gitbook-cli": "2.3.0",
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-ga": "^1.0.1",
+    "gitbook-plugin-hidden": "^1.2.0",
+    "gitbook-plugin-page-toc": "^1.0.2",
+    "gitbook-plugin-replace-with-index-html": "^1.0.9",
+    "gitbook-plugin-wide-page": "^1.0.0"
   },
   "scripts": {
     "preinstall": "npm prune && npm cache clean",
