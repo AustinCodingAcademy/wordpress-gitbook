@@ -1,7 +1,7 @@
 {% include "/header.md" %}
 
-# Lesson Nine
+# Personal Project
 
-
+Build a customized wordpress site.
 
 {% include "/footer.md" %}

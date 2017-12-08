@@ -1,6 +1,8 @@
 {% include "/header.md" %}
 
-# Lesson Eight
+# Class Project
+
+Rebuild the Austin Coding Academy website.
 
 
 

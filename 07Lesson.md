@@ -1,6 +1,6 @@
 {% include "/header.md" %}
 
-# Lesson Seven - Introduction to Theme Development
+# Lesson Seven - Theme Development
 
 
 

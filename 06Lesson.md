@@ -1,6 +1,6 @@
 {% include "/header.md" %}
 
-# Lesson Six - Introduction to Wordpress Errors
+# Lesson Six - Wordpress Errors
 
 
 
