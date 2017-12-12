@@ -1,6 +1,8 @@
 {% include "/header.md" %}
 
-# Lesson Ten
+# Midterm Project  
+
+Build a Wordpress business complete with SEO and email marketing.
 
 
 
