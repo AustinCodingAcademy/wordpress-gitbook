@@ -37,7 +37,7 @@ Yahoo | 5.35%
 4. Don't block robots
 5. meta keywords are good for other search engines
 
-
+find a website with no SEO and make some
 
 
 {% include "/footer.md" %}
