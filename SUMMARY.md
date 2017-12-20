@@ -9,5 +9,5 @@
 * [Midterm Project](10Lesson.md)
 * [06 Lesson - Wordpress Issues](06Lesson.md)
 * [07 Lesson - Theme Development](07Lesson.md)
-* [CLass Project](08Lesson.md)
+* [Class Project](08Lesson.md)
 * [Personal Project](09Lesson.md)
