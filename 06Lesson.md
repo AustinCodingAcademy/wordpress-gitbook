@@ -30,7 +30,7 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 ##Malware Injection
 ![Image of malware](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-9.59.41-AM.png)
 
-* Fix:Buy a site scanner
+* Fix: Buy a site scanner
 
 ##Error Connecting to Database
 ![Image of error connecting to database](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-10.06.21-AM.png)
