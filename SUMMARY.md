@@ -6,7 +6,7 @@
 * [03 Lesson - Email Marketing](03Lesson.md)
 * [04 Lesson - Affiliate Marketing](04Lesson.md)
 * [05 Lesson - Introduction to Wordpress](05Lesson.md)
-* [Midterm Project](00Midterm.md)
+* [Midterm Project](00MidtermProject.md)
 * [06 Lesson - Wordpress Issues](06Lesson.md)
 * [07 Lesson - Site Migration](07Lesson.md)
 * [08 Lesson - Theme Development](08Lesson.md)

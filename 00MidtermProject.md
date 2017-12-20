@@ -1,6 +1,5 @@
 {% include "/header.md" %}
 
-<<<<<<< HEAD
 #  Mid Term Project
 
 ## installing a basic theme
