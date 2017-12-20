@@ -1,19 +1,18 @@
 {% include "/header.md" %}
 
-# Class Project
+# Lesson Eight - Theme Development
 
-Rebuild the Austin Coding Academy website.
+Students Will...
+* Start to understand basic theme development
 
-## Goals
-Using everything you know. work together to build a custom built template for the code academy website.
-
-### Requirements
-* must be editable by the every day user.
-* SEO updated
-* must include 2 email templates (student news, regular newsletter)
-* import content from existing website (may update where able)
-* Has to include about page, info and other required pages.
+#Key Questions
+* What is the common layout of a theme?
+* What is the difference between building my own vs customizing a exisiting theme?
+* What is a child theme? and How do I make one?
 
 
+#Demo
+
+   
 
 {% include "/footer.md" %}

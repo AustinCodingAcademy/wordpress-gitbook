@@ -1,9 +1,9 @@
 {% include "/header.md" %}
 
-# Lesson Seven - Theme Development
+# Lesson Seven - Site Migration
 
 Students Will...
-* Start to understand basic theme development
+* understand how to undertake site mirgation
 
 #Key Questions
 * What is the common layout of a theme?
@@ -12,7 +12,5 @@ Students Will...
 
 
 #Demo
-
-   
 
 {% include "/footer.md" %}
