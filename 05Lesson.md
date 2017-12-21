@@ -31,6 +31,9 @@
     * when you install a new theme get the lay of the land before you start flipping the switches.
     * Sometimes importing the dummy content can allow you to see how the developers place test content.
     
+## Project For Next class
+Have Fun and get to know the wordpress back end. Break it, change it, discover what it can do.
+
 
 
 

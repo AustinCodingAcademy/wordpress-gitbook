@@ -6,11 +6,20 @@ Students Will...
 * understand how to undertake site mirgation
 
 #Key Questions
-* What is the common layout of a theme?
-* What is the difference between building my own vs customizing a exisiting theme?
-* What is a child theme? and How do I make one?
+* How do I move a wordpress build without taking down a website?
+* How do I move a sql database from local to live?
+* What Plugins Should I use to prepare myself for it?
 
 
-#Demo
+#Demostration
+1. Download and back up the current website, files and sql.
+2. Upload the new website to a directory on the hosting site.
+3. Export and Migrate your sql database using WP Migrate.
+4. set up a new sql database on the sql server.
+5. change the sql database info in the wp-config file
+6. add a directory for the old website.
+7. move the old website into the old director folder
+8. move the new website directory contents into the main directory.
+
 
 {% include "/footer.md" %}

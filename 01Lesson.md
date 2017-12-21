@@ -30,6 +30,14 @@ Bing | 6.92%
 Baidu | 5.94%
 Yahoo | 5.35%
 
+### What It Looks Like In The Source Code
+    ```
+    <meta property="og:title" content="Digital Transformation Consulting">
+    <meta name="description" content="Sparkovation is a digital transformation consulting firm in Austin,Texas that transforms businesses to thrive in the digital age.">
+    <meta name="keywords" content="Accelerate Innovation, Modernize IT, Enable Organizational Agility, Digital Transformation Advisory Firm, Austin Texas, Management &amp; Technology Advisory Firm, MBE, HUB, NMSDC">
+
+    ```
+
 #Tips for Good SEO
 1. Every page must include a H1 headline
 2. focus keyword must relate to content
