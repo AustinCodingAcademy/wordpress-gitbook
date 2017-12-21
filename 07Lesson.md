@@ -5,13 +5,13 @@
 Students Will...
 * understand how to undertake site mirgation
 
-#Key Questions
+## Key Questions
 * How do I move a wordpress build without taking down a website?
 * How do I move a sql database from local to live?
 * What Plugins Should I use to prepare myself for it?
 
 
-#Demostration
+## Demonstration
 1. Download and back up the current website, files and sql.
 2. Upload the new website to a directory on the hosting site.
 3. Export and Migrate your sql database using WP Migrate.
