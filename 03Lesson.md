@@ -66,7 +66,9 @@ Class Discussion - What Catches your eye when you get an Email?
 Code Your Own Mailchimp Template
  1. It must fit to mailchimp guidelines
  2. Each Block Must be able to be edited by the user.
- 3. 
+ 3. The subject must be able the new ACA wordpress class
+ 4. the content must be about the new ACA wordpress class.
 https://templates.mailchimp.com/ 
 
+* We will be sending out test emails to everyone next class.
 {% include "/footer.md" %}

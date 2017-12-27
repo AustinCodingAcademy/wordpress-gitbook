@@ -5,10 +5,10 @@
 Students Will...
 * Learn how to troubleshoot wordpress issues
 
-#Career Readiness
+# Career Readiness
 When a client calls you at 3am you can fix it and charge double before coffee.
 
-#Key Questions
+# Key Questions
 * What is the White screen of death
 * What is the CSS issue with admin backend
 * What is a maleware injection?
@@ -18,7 +18,7 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 * SQL injection- how to avoid an injection
 
 
-#Demostration
+# Demonstration
 
 ##Admin isn't displaying css
 

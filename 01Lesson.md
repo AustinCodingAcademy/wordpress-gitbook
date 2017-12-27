@@ -6,8 +6,9 @@
     1. Learn Search Engine Optimization
 
 # Career Readiness
-* Each student will share their background and pressent their LinkedIn Profile
+* Each student will share their background and present their LinkedIn Profile
 * Students will connect via LinkedIn and start endorsing each other.
+* You will be able to analyze a webpage and help write SEO for web pages.
 
 #Key Questions
 
@@ -45,7 +46,10 @@ Yahoo | 5.35%
 4. Don't block robots
 5. meta keywords are good for other search engines
 
-find a website with no SEO and make some
+## Project
+improve a page on the austin coding academys website and improve it.
+
+
 
 
 {% include "/footer.md" %}

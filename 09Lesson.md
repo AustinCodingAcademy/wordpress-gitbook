@@ -26,12 +26,12 @@ Pros:
 Cons:
 * Quick books
 * Tax law
-* If you dont work you dont eat.
+* If you don't work you don't eat.
 * Finding your own clients
 
 # Enterprise or corporate
 
-Anterprise companies or the big companies that house entire buildings.
+Enterprise companies or the big companies that house entire buildings.
 
 Pros:
 * Great atmosphere 
@@ -41,7 +41,7 @@ Pros:
 Cons:
 * Sign a noncompete agreement
 * Feel like a cog in the machine 
-* You dont leave 
+* You don't leave 
 
 
 

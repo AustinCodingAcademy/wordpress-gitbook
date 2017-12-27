@@ -4,6 +4,7 @@
 
 # Career Readiness
 * You will be able to add this to their resumes
+* You will be able to help small businesses understand their audiences.
 
 # Key Questions
 1. What is google analytics?
@@ -13,12 +14,12 @@
     * Should I use bing webmaster tools?
 3. Is this necessary for a job?
 
-#Demostration
+# Demostration
 We will be going over a website that gains a lot of traffic and reviewing it.
 * Google analytics is free to use 
-* Drop the google analytics code into the <head>
+* Drop the google analytics code into the <head> section
 
-#Activity
+# Project
 We will be giving you a set of data to look over and draw conclusions on how to improve the audience and traffic.
 
 {% include "/footer.md" %}
