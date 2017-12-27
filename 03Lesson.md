@@ -5,12 +5,12 @@
 # Career Readiness
 Class Discussion - What Catches your eye when you get an Email?
 
-#Key Questions
+# Key Questions
 * Why is email marketing important?
     * What Email Marketing Platform Should I use?
 * What do you mean by "Coding backwards"
 
-#Demonstration
+# Demonstration
 
 * Lets take HTML standards and throw it out the window
  

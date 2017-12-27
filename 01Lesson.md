@@ -10,7 +10,7 @@
 * Students will connect via LinkedIn and start endorsing each other.
 * You will be able to analyze a webpage and help write SEO for web pages.
 
-#Key Questions
+# Key Questions
 
 * SEO
     1. What is SEO? 
@@ -19,11 +19,11 @@
     4. Explain what the difference between Title, Description, Meta Keywords and Focus Keywords.
     5. Able to write SEO for a page. 
 
-#Project
+# Project
 * You will vet a website without SEO.
 * As a web developer you wil need to understand Search Engine Optimization
 
-#Demostration
+# Demonstration
 Browser | Market Share(US March 2017)
 ------------ | -------------
 Google | 80.52%

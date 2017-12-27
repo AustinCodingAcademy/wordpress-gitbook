@@ -5,10 +5,17 @@
 Students Will...
 * Learn how to troubleshoot wordpress issues
 
+<<<<<<< HEAD
 # Career Readiness
 When a client calls you at 3am you can fix it and charge double before coffee.
 
 # Key Questions
+=======
+## Career Readiness
+When a client calls you at 3am you can fix it and charge double before coffee.
+
+## Key Questions
+>>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 * What is the White screen of death
 * What is the CSS issue with admin backend
 * What is a maleware injection?
@@ -18,21 +25,25 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 * SQL injection- how to avoid an injection
 
 
+<<<<<<< HEAD
 # Demonstration
+=======
+## Demonstration
+>>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 
-##Admin isn't displaying css
+## Admin isn't displaying css
 
 ![Image of admin panel](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-9.52.06-AM-1.png)
 
 * Fix:Most of the time it can be fixed with a admin reinstall
 
 
-##Malware Injection
+## Malware Injection
 ![Image of malware](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-9.59.41-AM.png)
 
 * Fix: Buy a site scanner
 
-##Error Connecting to Database
+## Error Connecting to Database
 ![Image of error connecting to database](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-10.06.21-AM.png)
 
 * Fix: Check wp-config
@@ -44,7 +55,7 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 ## PHP Version Error
 * Fix: check PHP version. Don't ignore email updates
 
-##White screen of Death
+## White screen of Death
 * Enable debug and get ready
 ![image of debug](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-10.30.36-AM.png)
 
