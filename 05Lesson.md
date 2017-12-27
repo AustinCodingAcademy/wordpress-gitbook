@@ -6,27 +6,16 @@
     * How to set up a fresh wordpress website
     * How wordpress and SQL work together
 
-<<<<<<< HEAD
-# Career Readiness
-* This will prepare you for building self hosted wordpress websites locally
-
-# Key Questions
-=======
 ## Career Readiness
 * This will prepare you for building self hosted wordpress websites locally
 
 ## Key Questions
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 * Wordpress specific hosting(wp engine) vs self hosting(everything else)
 * Why Building Locally is better than building directly online
 
 
 # Demonstration
-<<<<<<< HEAD
-##Part 1 - Installing a fresh wordpress install locally
-=======
 ## Part 1 - Installing a fresh wordpress install locally
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 1. download files from wordpress.org
 2. move files over to HTDOCS and set up file as a website name aka sitename.com
 3. create a sql database with the sitename.

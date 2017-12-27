@@ -5,17 +5,10 @@
 Students Will...
 * Learn how to troubleshoot wordpress issues
 
-<<<<<<< HEAD
 # Career Readiness
 When a client calls you at 3am you can fix it and charge double before coffee.
 
 # Key Questions
-=======
-## Career Readiness
-When a client calls you at 3am you can fix it and charge double before coffee.
-
-## Key Questions
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 * What is the White screen of death
 * What is the CSS issue with admin backend
 * What is a maleware injection?
@@ -25,11 +18,7 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 * SQL injection- how to avoid an injection
 
 
-<<<<<<< HEAD
 # Demonstration
-=======
-## Demonstration
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 
 ## Admin isn't displaying css
 

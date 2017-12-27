@@ -11,11 +11,7 @@ Students Will...
 * What is a child theme? and How do I make one?
 * What are page templates? 
 
-<<<<<<< HEAD
-# Demonstration
-=======
 ## Demostration
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 * We Will be going over page templates and how the pieces come together.
 
 * What is the widget area and how do I make more?

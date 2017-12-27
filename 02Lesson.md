@@ -14,20 +14,12 @@
     * Should I use bing webmaster tools?
 3. Is this necessary for a job?
 
-<<<<<<< HEAD
-# Demostration
-=======
 # Demonstration
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 We will be going over a website that gains a lot of traffic and reviewing it.
 * Google analytics is free to use 
 * Drop the google analytics code into the <head> section
 
-<<<<<<< HEAD
-# Project
-=======
 # Activity
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 We will be giving you a set of data to look over and draw conclusions on how to improve the audience and traffic.
 
 {% include "/footer.md" %}

@@ -11,11 +11,7 @@
 3. How do I refer other people online?
 
 ## Activity
-<<<<<<< HEAD
-I will pretend to be a client and you will sell me on moving away from a AWS server to another hosting provider of your choosing. 
-=======
 I will pretend to be a client and you will sell me on moving away from a AWS server to another hosting provider of your chosing. 
->>>>>>> d1784f2b7c1573455e1bad85bfe1ec7ae81c9f34
 
 
 {% include "/footer.md" %}
