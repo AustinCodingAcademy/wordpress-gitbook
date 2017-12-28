@@ -4,7 +4,7 @@
 
 Build a customized wordpress site.
 
-## requirements 
+## Requirements 
 * about page
 * portfolio page
 * home page 

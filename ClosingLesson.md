@@ -5,7 +5,6 @@
 a marketing company can provide a lot of knowledge and you will hit the ground running
 * + great place to gain experience 
 * + never slow
-* + 
 
 * - pay can be low
 * - never disconnected 

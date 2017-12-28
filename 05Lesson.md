@@ -34,6 +34,9 @@
 ## Project
 Have Fun and get to know the wordpress back end. Break it, change it, discover what it can do.
 
+## Resources
+[wordpress codex](https://codex.wordpress.org/)
+
 
 
 

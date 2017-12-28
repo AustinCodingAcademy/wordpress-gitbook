@@ -68,7 +68,9 @@ Code Your Own Mailchimp Template
  2. Each Block Must be able to be edited by the user.
  3. The subject must be able the new ACA wordpress class
  4. the content must be about the new ACA wordpress class.
-https://templates.mailchimp.com/ 
+
+ ## Resources
+[Mailchimp Template Creation](https://templates.mailchimp.com/)
 
 * We will be sending out test emails to everyone next class.
 {% include "/footer.md" %}

@@ -33,6 +33,9 @@ Students Will...
 ## Project for Next Class
 * Change the 2012 theme layout and colors without using the interior editor 
 
+## Resources
+[WP Theme Codex](https://codex.wordpress.org/Theme_Development)
+[Smashing Magazine](https://www.smashingmagazine.com/)
    
 
 {% include "/footer.md" %}

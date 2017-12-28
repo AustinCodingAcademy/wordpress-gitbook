@@ -2,7 +2,7 @@
 
 #  Mid Term Project
 
-## installing a basic theme
+## Installing a basic theme Requirements
 * adding in SEO with a few blog posts.
 * add a about page
 * and a customized homepage

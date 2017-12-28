@@ -22,4 +22,10 @@ We will be going over a website that gains a lot of traffic and reviewing it.
 # Activity
 We will be giving you a set of data to look over and draw conclusions on how to improve the audience and traffic.
 
+## Resources
+[Google Analytics Help](https://support.google.com/analytics/)
+
+
+[Google Webmaster Tools](https://support.google.com/webmasters/?hl=en#topic=3309469)
+
 {% include "/footer.md" %}

@@ -13,5 +13,9 @@
 ## Activity
 I will pretend to be a client and you will sell me on moving away from a AWS server to another hosting provider of your chosing. 
 
+## Resources
+[WP Engine](https://wpengine.com/affiliate/)
+
+[Godaddy](https://www.godaddy.com/affiliate-programs)
 
 {% include "/footer.md" %}
