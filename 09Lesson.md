@@ -1,5 +1,5 @@
 {% include "/header.md" %}
-# Lsson Nine - In Closing  Where do you go from here
+# Lesson Nine - In Closing - Where do you go now
 
 ## Marketing Companies 
 
@@ -8,6 +8,7 @@ A marketing company can provide a lot of knowledge and you will hit the ground r
 Pros:
 * Great place to gain experience 
 * Never slow day
+* Different Kinds of Clients
 
 Cons:
 * Pay can be low
@@ -29,7 +30,7 @@ Cons:
 * If you don't work you don't eat.
 * Finding your own clients
 
-# Enterprise or corporate
+# Enterprise or Corporate
 
 Enterprise companies or the big companies that house entire buildings.
 
@@ -40,7 +41,7 @@ Pros:
 
 Cons:
 * Sign a noncompete agreement
-* Feel like a cog in the machine 
+* You Will feel like a cog in the machine 
 * You don't leave 
 
 

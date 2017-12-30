@@ -49,8 +49,8 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 ![image of debug](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-10.30.36-AM.png)
 
 ## Resources
-[WP Beginner](http://www.wpbeginner.com/)
-[Smashing Magazine](https://www.smashingmagazine.com/)
-[WP Daily](https://thewpdaily.com/)
+* [WP Beginner](http://www.wpbeginner.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [WP Daily](https://thewpdaily.com/)
 
 {% include "/footer.md" %}

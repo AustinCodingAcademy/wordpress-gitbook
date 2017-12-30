@@ -41,13 +41,14 @@ Yahoo | 5.35%
 
 #Tips for Good SEO
 1. Every page must include a H1 headline
-2. focus keyword must relate to content
-3. Clean code helps
+2. Focus keyword must relate to content
+3. Clean code helps with indexing
 4. Don't block robots
 5. meta keywords are good for other search engines
+6. Google is not the only search engine.
 
 ## Project
-improve a page on the austin coding academys website and improve it.
+Find a page on the Austin Coding Academy's website and improve the SEO.
 
 
 
