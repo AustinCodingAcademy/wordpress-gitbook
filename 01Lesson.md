@@ -13,15 +13,18 @@
 # Key Questions
 
 * SEO
-    1. What is SEO? 
+    1. What is **SEO**? 
     2. Explain how SEO works.
     3. Be able to spot a website with no SEO.
-    4. Explain what the difference between Title, Description, Meta Keywords and Focus Keywords.
+    4. Explain what the difference between **Title, Description, Meta Keywords and Focus Keywords.**
     5. Able to write SEO for a page. 
 
-# Project
-* You will vet a website without SEO.
-* As a web developer you wil need to understand Search Engine Optimization
+
+* What are the key terms of SEO?
+    1. The **meta title** relates to the page title. Most pages standardize this as "Page Name | Website Name" in the code
+    2. The **focus keyword** is the phrase that people will type into google to find that specific content
+    3. **Keywords** relate to the content in the webpage itself.To put it simply it is the words that people would use to search for as it relates to the content.
+    4. The **meta description** relates to the content. It is best to customize your own cause this is what search engines will index when it shows up on their webpage. If you don't then it pulls the first plain text to the page.
 
 # Demonstration
 Browser | Market Share(US March 2017)
