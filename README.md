@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/AustinCodingAcademy/wordpress-gitbook.svg?style=svg&circle-token=8d9042bc60224af55dc502288b22c03f547951cc)](https://circleci.com/gh/AustinCodingAcademy/wordpress-gitbook)
+
 ![](http://en.gravatar.com/userimage/107370100/a08594145564536138dfaaf072c7b241.png)
 # Austin Coding Academy
 
