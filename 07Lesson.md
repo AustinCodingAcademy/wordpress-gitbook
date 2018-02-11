@@ -29,11 +29,11 @@ Before You Get Started Make Sure you Have
 
 
 ## Tips for a Successful Migration
-1. Never do it during the day.
+1. Never do it during the day.(unless your on WP engine)
 2. Evening migrations should happen on Thursday or Friday
 3. Back up the original locally as well as on the server
-4. Know where the website is going - triple check your install
-5. Delete nothing from the server just move files
+4. Know where the website is going - triple check your install, passwords and sql
+5. **Delete nothing** from the server just move files
 
 # Project
 Buy hosting and set up a website and migrate a website to your hosting. it can be on a sub domain if you already have one.

@@ -7,9 +7,9 @@
 * You will be able to help small businesses understand their audiences.
 
 # Key Questions
-1. What is google analytics?
+1. What is **google analytics**?
     * How will this help me understand my audience?
-2. What is google webmaster tools
+2. What is **google webmaster** tools
     * How will this help you tweak your SEO and gain better insight.
     * Should I use bing webmaster tools?
 3. Is this necessary for a job?
