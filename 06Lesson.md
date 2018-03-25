@@ -48,6 +48,13 @@ When a client calls you at 3am you can fix it and charge double before coffee.
 * Enable debug and get ready
 ![image of debug](https://www.commandzer01.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-09-at-10.30.36-AM.png)
 
+
+## Activity
+The professor will break your website in a variety of ways.
+* Part 1 - You have 10 minutes to solve it without help from the internet or anyone.
+* Part 2 - You have 10 additional minutes to solve it without the internet but with the other classmates.
+* Part 3 - You now have 10 additional minutes to solve it with your class mates and with the internet
+
 ## Resources
 * [WP Beginner](http://www.wpbeginner.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)

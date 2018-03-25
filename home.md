@@ -18,5 +18,13 @@ The goal of the class is to prepare students and to help them understand Wordpre
 * Projects should be completed in class when there is an instructor and TA in the room to provide assistance.
 * Failure to ask questions will lead to failure in the class. 
 
+#Introductions
+* Each student will share their background and present their **LinkedIn Profile** and or **Website / Portfolio**
+* Students will connect via LinkedIn and start endorsing each other.
+
+#Required Purchases
+Over the course of this class you will be required to make a few purchases. **You will be notified in advance** when the time comes when you should make your purchases.
+1. A Hosting Account
+2. A Domain Account
 
 {% include "/footer.md" %}

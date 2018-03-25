@@ -9,10 +9,10 @@ Class Discussion - What Catches your eye when you get an Email?
 * Why is email marketing important?
     * What Email Marketing Platform Should I use?
 * What do you mean by "Coding backwards"
-
+* Is email actually dead?
 # Demonstration
 
-* Lets take HTML standards and throw it out the window
+ **Lets take HTML standards and throw it out the window**
  
     ```
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -40,19 +40,41 @@ Class Discussion - What Catches your eye when you get an Email?
     </html>
     ```
 
-* Lets get even more crazy with INLINE Styling
+**Lets get even more crazy with INLINE Styling**
  
  ```
 <a href="#" target="_blank" style="color:#FFFFFF; text-decoration:none;">Read More Stories On Our Blog</a>
 
  ```
 
- #Email Standards To Avoid Blacklisting
+#Creating Mailchimp Coded Sections
+ **Mailchimp uses their own "code" language that create interactive editable areas within a email template**
+
+For example if you are creating a **editable** block where a user will be able to drop in and edit their own content.
+
+'mc:edit="header"'
+
+**Now how does this look code wise?**
+
+`
+   <td align="center" valign="top" mc:edit="blockLeft1">
+                                This is where my content goes.
+                            </td>
+`
+
+What Mailchimp does is scan your email and look for these little mc calls and it knows within its builder that this will be editable by the user.
+
+**Somethings to consider...**
+* Don't use the same edit name for the fields. It will create duplicated block sections
+* Never do editable areas within editable areas
+* Make each name unique
+
+#Email Standards To Avoid Blacklisting
  1. Must include unsubscribe Button
  2. no JS code ever
- 3. No Numbers or conseucative capital letters  or too many special characters for example !!!!!!!
- 4. Images must be HTTPS'ed
- 5. 
+ 3. No Numbers or consecutive capital letters  or too many special characters in the subject line - Example "!!! CHECK OUT THIS NEW WEBSITE !!!! "
+ 4. Images **MUST** be HTTPS'ed
+ 5. Images **MUST** include Alt tags
 
 # Tips For Making Email Templates
 1. Tables tables tables.
@@ -69,8 +91,10 @@ Code Your Own Mailchimp Template
  3. The subject must be able the new ACA wordpress class
  4. the content must be about the new ACA wordpress class.
 
- ## Resources
+**We will be sending out test emails to everyone next class.**
+
+## Resources
 [Mailchimp Template Creation](https://templates.mailchimp.com/)
 
-* We will be sending out test emails to everyone next class.
+
 {% include "/footer.md" %}
