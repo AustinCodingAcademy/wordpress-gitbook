@@ -46,7 +46,22 @@ Enterprise companies or the big companies that house entire buildings. These com
 * Getting into the corporate world for a company is very difficult
 
 
+# Government 
 
+Government jobs are exactly like they sound like...they can range from working for the city, to the county to even working for a college. These places have great retirement benefits and they respect the 9-5 atmosphere.
+
+**Pros**
+* Slower Pace
+* Retirement Benefits
+* Good Holidays
+* Stays 9-5
+* Its hard to get fired
+
+**Cons**
+* Lower Pay
+* Ancient Technology
+* No Outside Work
+* Its hard to get fired
 
 
 
