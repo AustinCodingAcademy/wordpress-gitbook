@@ -11,7 +11,7 @@ Students Will...
 * What is a child theme? and How do I make one?
 * What are page templates? 
 
-## Demostration
+## Demonstration
 * We Will be going over page templates and how the pieces come together.
 	* Page templates are broken into sections
 		* Header
@@ -138,7 +138,7 @@ Students Will...
 * Drawing it can help people visualize
 
 ## Project for Next Class
-* Change the 2012 theme layout and colors without using ANY interior editor only from the CSS theme files
+* Change the 2012 theme layout and colors without using ANY interior editor only from the CSS main theme files
 
 ## Resources
 * [WP Theme Codex](https://codex.wordpress.org/Theme_Development)

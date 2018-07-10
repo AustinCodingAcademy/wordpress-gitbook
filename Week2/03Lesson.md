@@ -95,6 +95,7 @@ Code Your Own Mailchimp Template
 
 ## Resources
 [Mailchimp Template Creation](https://templates.mailchimp.com/)
+[Litmus Blog](https://litmus.com/blog/)
 
 
 {% include "/footer.md" %}

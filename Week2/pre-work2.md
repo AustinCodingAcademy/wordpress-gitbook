@@ -9,8 +9,8 @@
 
 
 ### MUST HAVE BEFORE CLASS
-* A mailchimp account
-* a HTML Editor (dealers choice)
+* A Mailchimp Account
+* a HTML text Editor (dealers choice)
 
 
 

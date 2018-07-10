@@ -18,9 +18,9 @@ This is a marketing and wordpress class...by joining my class you accept the fac
 * Have a domain ready(If you don't have a hosting account they usually give you your first domain free)
 
 **Knowledge you should look into...**
-* Using an FTP...
-* Knowing what a SQL server is and using PHP MY ADMIN
-* DNS Records
+* Using FTP Software
+* Knowledge of what a SQL Server is and how to use PHPMYADMIN properly
+* DNS Records and Name Servers
 
 Do you know what map makers would tell explorers who went beyond the edges of the map?
 

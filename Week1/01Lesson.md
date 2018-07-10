@@ -46,8 +46,8 @@ Yahoo | 5.35%
 3. Clean code helps with indexing
 4. Don't block robots
 5. Google is not the only search engine. Mind your other search engines
-6. Meta Keywords are slowly being moved away from but keep in mind to use them as a just incase for other search engines.
-7. Know which markets you are targeting.
+6. Meta Keywords are slowly being moved away from but keep in mind to use them as a just incase for other search engines in other regions of the world
+7. Know which markets you are targeting and how their SEO works.
 
 ## Project
 Create and plan some SEO search terms and keywords for your own website.
@@ -55,6 +55,10 @@ Create and plan some SEO search terms and keywords for your own website.
 2. Must include a meta description
 3. Focus Keywords
 4. If you have images what would be the alt tags
+
+## Resources
+1. [Yoast Blog](https://yoast.com/seo-blog/)
+2. [Google Webmaster Blog](https://webmasters.googleblog.com/)
 
 
 
