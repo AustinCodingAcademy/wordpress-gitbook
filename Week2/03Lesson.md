@@ -84,6 +84,21 @@ What Mailchimp does is scan your email and look for these little mc calls and it
 5. There are no take backs once you press that send button
 
 
+# Testing testing and testing
+When you are building emails, you have to test for all devices and all email clients on those devices. 
+
+![image of email devices](emailexamples.jpg)
+
+
+![image of email devices](devices2.jpg)
+
+Litmus is one of the most used services for email testing. It helps test on every device and every client. They have a report on the state of email. Across many different devices emails might change and this is why using a strict barebones version of old HTML help email clients read the HTML code and decode it a lot easier.
+
+### Litmus Testing Info
+1. [State of emails](https://litmus.com/ebooks/state-of-email-service-providers-2018)
+2. [email Mistakes](https://litmus.com/blog/nofailmail-the-5-most-common-email-design-fails-and-how-to-avoid-them)
+
+
 # Project
 Code Your Own Mailchimp Template
  1. It must fit to mailchimp guidelines

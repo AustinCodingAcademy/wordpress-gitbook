@@ -48,6 +48,7 @@ Yahoo | 5.35%
 5. Google is not the only search engine. Mind your other search engines
 6. Meta Keywords are slowly being moved away from but keep in mind to use them as a just incase for other search engines in other regions of the world
 7. Know which markets you are targeting and how their SEO works.
+8. Google has started ranking responsives first websites higher.
 
 ## Project
 Create and plan some SEO search terms and keywords for your own website.
