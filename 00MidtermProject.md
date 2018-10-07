@@ -20,6 +20,6 @@ This project is to test your basic understanding of Wordpress development and bu
 * adding in SEO with a few blog posts.
 * and a customized homepage with content and with SEO.
 
-### All of this must be uploaded to the web, it can't be a local build.
+### All of this must be uploaded to the web, it can't be a local build. IT MUST BE HOUSED ON A DOMAIN OR SUB DOMAIN
 
 {% include "/footer.md" %}
